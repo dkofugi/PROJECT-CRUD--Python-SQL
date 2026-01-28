@@ -13,9 +13,9 @@ Terminal based CRUD Application developed
 - MySQL
 
 ## Project Structure
-arquivos/ - Create connection with MySQL and functions that execute commands
-interface/ - Functions that define the visual part of project
-sistema/ - CRUD operations logicc
+- arquivos/ -- Create connection with MySQL and functions that execute commands
+- interface/ -- Functions that define the visual part of project
+- sistema/ -- CRUD operations logicc
 
 ## Purpose
 This is a basic project developed to manage school homework and activities, with the goal of practicing:
